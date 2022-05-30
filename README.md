@@ -8,5 +8,6 @@ I am a versatile, army-knife learner, worker and developer. I am familiar workin
  - <a href="https://tothemoon-investment-app.herokuapp.com/" > To the Moon 🌙 </a>  <a href="https://github.com/fiasco071/tothemoon" >🛠️ </a>
  - <a href="https://bot-appetit.herokuapp.com/" > Bot Appetit 🧑‍🍳 </a>  <a href="https://github.com/Fiasco071/BotAppetit" >🛠️</a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiasco071&show_icons=true&theme=shades-of-purple)
+<p align="center">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiasco071&show_icons=true&theme=shades-of-purple)
+</p>
